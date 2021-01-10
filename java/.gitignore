@@ -39,4 +39,4 @@ nb-configuration.xml
 .DS_Store
 
 
-/target/
+target/
